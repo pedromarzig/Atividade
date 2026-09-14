@@ -1,0 +1,7 @@
+hoje foi realizado introdução do github + git, com isso foi utilizado e instalado o github desktop, junto com github web, e o registro da conta
+no github.
+Com a criação de repositorios, enviar arquivos upload.
+Com isso foi criado um repositorio teste, foi eninado o delete, upload e também a edição de arquivos e foi enviando o link para os professores.
+agora foi realizado a criação de uma atividade onde, você cria um arquivo no site do github com 3 imagens de chuva pois o dia está chovoso,
+e uma imagem de dia ensolarado, com isso foi ralizado um arquivo .txt para servir como diario de bordo, logo apos será enviado no diario de bordo. 
+Com isso a aula de hoje foi muitop produtiva na questão de aprender sobre github+git
